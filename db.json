@@ -1,0 +1,73 @@
+
+{
+"Operateurs":[
+    {
+      "id": 1,
+      "nomOperateur": "telecel_huawei_2g" 
+    },
+    {
+      "id": 2,
+      "nomOperateur": "telecel_huawei_3g" 
+    },
+    {
+      "id": 3,
+      "nomOperateur": "malitel_huawei_2g"
+    },
+    {
+      "id": 4,
+      "nomOperateur": "malitel_huawei_3g" 
+    },
+    {
+      "id": 5,
+      "nomOperateur": "malitel_huawei_4g" 
+    },
+    {
+      "id": 6,
+      "nomOperateur": "malitel_nsn_2g"
+    },
+    {
+      "id": 7,
+      "nomOperateur": "malitel_nsn_3g" 
+    },
+    {
+      "id": 8,
+      "nomOperateur": "malitel_nsn_4g"
+    },
+    {
+      "id": 9,
+      "nomOperateur": "malitel_alcatel_2g"
+    },
+    {
+      "id": 10,
+      "nomOperateur": "orange_huawei_2g" 
+    },
+    {
+      "id": 11,
+      "nomOperateur": "orange_huawei_3g"
+    },
+    {
+      "id": 12,
+      "nomOperateur": "orange_huawei_4g"
+    },
+    {
+      "id": 13,
+      "nomOperateur": "orange_nsn_2g"
+    },
+    {
+      "id": 14,
+      "nomOperateur": "orange_nsn_3g" 
+    },
+    {
+      "id": 15,
+      "nomOperateur": "orange_nsn_4g"
+    },
+    {
+      "id": 16,
+      "nomOperateur": "range_alcatel_2g" 
+    },
+    {
+      "id": 17,
+      "nomOperateur": "orange_alcatel_3g"
+    }
+  ]
+}
