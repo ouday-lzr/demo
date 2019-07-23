@@ -4,100 +4,119 @@
     {
       "id": 1,
       "nomOperateur": "telecel_huawei_2g", 
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 2,
-      "nomOperateur": "telecel_huawei_3g", 
+      "nomOperateur": "telecel_huawei_3g",
+        "region": "Tunisia",
+      "cellName" : "Arina" 
     },
     {
       "id": 3,
       "nomOperateur": "malitel_huawei_2g",
-      "region"= "Tunisia",
-      "cellName" = "Arina" 
+      "region": "Tunisia",
+      "cellName" : "Arina" 
     },
     {
       "id": 4,
       "nomOperateur": "malitel_huawei_3g",
-       "region"= "Tunisia",
-      "cellName" = "Arina"
+        "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 5,
       "nomOperateur": "malitel_huawei_4g", 
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 6,
       "nomOperateur": "malitel_nsn_2g",
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 7,
       "nomOperateur": "malitel_nsn_3g", 
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+          "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 8,
       "nomOperateur": "malitel_nsn_4g",
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 9,
       "nomOperateur": "malitel_alcatel_2g",
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 10,
       "nomOperateur": "orange_huawei_2g",
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 11,
       "nomOperateur": "orange_huawei_3g",
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+          "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 12,
       "nomOperateur": "orange_huawei_4g",
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 13,
       "nomOperateur": "orange_nsn_2g",
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 14,
       "nomOperateur": "orange_nsn_3g" ,
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 15,
       "nomOperateur": "orange_nsn_4g",
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+         "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 16,
       "nomOperateur": "range_alcatel_2g", 
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+          "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     },
     {
       "id": 17,
       "nomOperateur": "orange_alcatel_3g",
-        "region"= "Tunisia",
-      "cellName" = "Arina"
+          "region": "Tunisia",
+      "cellName" : "Arina" 
+    },
     }
   ]
 }
