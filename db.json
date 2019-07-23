@@ -4,8 +4,8 @@
     {
       "id": 1,
       "nomOperateur": "telecel_huawei_2g", 
-         "region": "Tunisia",
-      "cellName" : "Arina" 
+         "region": "region1",
+      "cellName" : "cell1" 
     },
    
     {
